@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_9dRMEnwKJswhjgL6E4YeQeDg00RtWqWWTg",
   s3: {
     REGION: "eu-west-1",
     BUCKET: "democarlos-notesappuploads"
